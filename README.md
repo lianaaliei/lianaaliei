@@ -63,9 +63,9 @@ Tools
 
 ![](https://github-readme-stats.vercel.app/api?username=lianaaliei&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lianaaliei&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lianaaliei&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
