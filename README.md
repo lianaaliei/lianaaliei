@@ -47,6 +47,7 @@
   <a href="mailto:lianaaliei.la@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+ <a href="https://www.instagram.com/meow.nrd?igsh=ZXF6MHp4amoxcjF6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" width="40" /></a>
 </p>
 
 <br>
