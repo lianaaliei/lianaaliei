@@ -89,17 +89,11 @@
 </div>
 
 <br>
-
-<h3 align="left">👩‍💻 Most Used Languages:</h3>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianaaliei&layout=compact&hide_border=true&theme=midnight-purple" alt="Most used programming languages"/>
 </div>
 
 <br>
-
-<h3 align="left">🔥 Contribution Streak:</h3>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=lianaaliei&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
 </div>
