@@ -105,8 +105,6 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake.svg" width="100%"/>
 </picture>
 
-<br><br>
-
 <p align="center">
   <em>✨ Always curious, always learning, always building.</em>
 </p>
