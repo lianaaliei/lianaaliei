@@ -42,12 +42,14 @@
 
 <p align="left">
   <a href="https://github.com/lianaaliei" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="mailto:lianaaliei.la@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
   </a>
- <a href="https://www.instagram.com/meow.nrd?igsh=ZXF6MHp4amoxcjF6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" width="40" /></a>
+  <a href="https://www.instagram.com/meow.nrd/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+  </a>
 </p>
 
 <br>
