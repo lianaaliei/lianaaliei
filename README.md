@@ -99,9 +99,6 @@
 </div>
 
 <br>
-
-<h3 align="left">🐍 GitHub Contribution Snake:</h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake.svg"/>
@@ -113,9 +110,3 @@
 <p align="center">
   <em>✨ Always curious, always learning, always building.</em>
 </p>
-
-<p align="center">
-  Thanks for visiting my profile! 💚
-</p>
-
-<p align="right">Created with 💚 by <a href="https://github.com/lianaaliei">Liana Aliei</a></p>
