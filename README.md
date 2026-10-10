@@ -156,5 +156,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake.svg" />
 </picture>
