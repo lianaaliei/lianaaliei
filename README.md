@@ -156,5 +156,5 @@
 <h3 align="center">🐍 GitHub Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" alt="Snake game on the GitHub contribution calendar" />
+  <img src="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake.svg" alt="Snake game on the GitHub contribution calendar" />
 </p>
