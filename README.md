@@ -1,106 +1,89 @@
- <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Liana Aliei</h1>
-<h3 align="center">💻 Computer Science Student | Software & Web Development</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Liana Aliei</h1>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
-  I'm a Computer Science student passionate about software development and web technologies. I enjoy building clean, responsive websites, exploring new technologies, and creating projects that help me grow as a developer. 🚀
-</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sass,bootstrap" alt="Programming languages and frontend skills"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=django,git,github,vscode" alt="Frameworks and development tools"/>
-</div>
-
-<br><br>
-
-<img align="right" alt="Coding animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🚀 About Me
-
-- 🎓 I'm a Computer Science student.
-- 💻 I'm passionate about software development and web technologies.
-- 🌱 I'm currently improving my programming skills and building personal projects.
-- 🤝 I'm open to collaborating on open-source and web development projects.
-- 🎨 I enjoy creating clean, responsive, and user-friendly websites.
-- ⚡ My motto: **Code. Learn. Build. Repeat.**
-
-<br>
-
-<h3 align="left">🌍 Connect with me:</h3>
-
-<p align="left">
-  <a href="https://github.com/lianaaliei" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/lianaaliei">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:lianaaliei.la@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/meow.nrd/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+I'm a Computer Science student passionate about software development and web technologies. I enjoy building clean, responsive websites, learning new technologies, and creating projects that help me grow as a developer.
 
-- **Programming Languages**
+- 🎓 Computer Science student
+- 💻 Interested in software development and web development
+- 🌱 Continuously improving my programming skills and building personal projects
+- 🤝 Open to collaborating on open-source and web development projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Python and JavaScript"/>
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-- **Frontend Development**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" alt="HTML, CSS, Sass and Bootstrap"/>
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-- **Frameworks**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django" alt="Django"/>
+**Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
 </p>
 
-- **Development Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
-<br>
+---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 💻 Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lianaaliei&show_icons=true&hide_border=true&theme=midnight-purple" alt="Liana's GitHub stats"/>
-</div>
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
+  <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
+  <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code"/></a>
+</p>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianaaliei&layout=compact&hide_border=true&theme=midnight-purple" alt="Most used programming languages"/>
-</div>
+---
 
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lianaaliei&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
-</div>
+### 🌍 Connect with Me
 
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lianaaliei/lianaaliei/output/github-snake.svg" width="100%"/>
-</picture>
+- 🖥️ GitHub: [@lianaaliei](https://github.com/lianaaliei)
+- ✉️ Email: [lianaaliei.la@gmail.com](mailto:lianaaliei.la@gmail.com)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <em>✨ Always curious, always learning, always building.</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=lianaaliei&show_icons=true&hide_border=true" alt="Liana's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianaaliei&layout=compact&hide_border=true" alt="Liana's most-used languages"/>
 </p>
+
+---
+
+### ⚡ Quote
+
+> *Code. Learn. Build. Repeat.*
