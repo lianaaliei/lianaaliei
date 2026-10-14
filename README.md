@@ -9,10 +9,6 @@
   I'm a Computer Science student passionate about software development and web technologies. I enjoy building clean, responsive websites, exploring new technologies, and creating projects that help me grow as a developer. 🚀
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lianaaliei&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sass,bootstrap" alt="Programming languages and frontend skills"/>
 </div>
